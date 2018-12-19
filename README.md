@@ -1,4 +1,6 @@
 # pythonProject
 python 项目
 使用KNN(邻近算法)、SVM(支持向量机) 识别手写数字 OCR
-使用神经网络+遗传算法 训练 飞机躲子弹、小鸟飞 （pygame小游戏）
+使用神经网络+遗传算法训练飞机躲子弹，小鸟飞（pygame的小游戏）
+截图：
+ ![Image text]https://raw.githubusercontent.com/zhushengl/pythonProject/master/img/%E6%8D%95%E8%8E%B7.PNG
